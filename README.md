@@ -26,10 +26,15 @@ https://github.com/FreddieAbad/PrediccionAUCORP/blob/master/Entrega/Ambiente%20C
 
 ##### Comando para instalar Tensorflow:
 Si el computador tiene GPU
+```
 pip install --ignore-installed --upgrade tensorflow-gpu 
+```
 Si el computador NO tiene GPU
+```
 pip install --ignore-installed --upgrade tensorflow
+```
 
 ##### Comando para instalar KERAS:
+```
 conda install mkl-service m2w64-toolchain pip install pydot keras
-
+```
