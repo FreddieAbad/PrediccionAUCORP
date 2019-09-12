@@ -6,7 +6,7 @@
 Entrega 2 - Python 08/09/2019:
 https://github.com/FreddieAbad/PrediccionAUCORP/blob/master/Entrega%202/Prediccion%20Final.ipynb
 
-Entrega 1 - Python&Weka):
+Entrega 1 - Weka:
 https://github.com/FreddieAbad/PrediccionAUCORP/blob/master/Entrega/Prediccion%20de%20Ventas%20en%20una%20Serie%20de%20Tiempo%20-%20P.%20Aucay.ipynb
 
 **CONFIGURACION**
